@@ -6,6 +6,13 @@ embed [GitHub](http://github.com) [Gist](http://gist.github.com)
 snippets into [Twig](http://twig.sensiolabs.org/) formatted pages.
 
 
+Deprecated
+==========
+
+This project has been deprecated in favor of a generic Symfony2 bundle
+[dflydev/github-gist-twig-bundle](https://github.com/dflydev/dflydev-github-gist-twig-bundle).
+
+
 Requirements
 ------------
 
